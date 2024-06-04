@@ -1,0 +1,7 @@
+[general]
+name=Weather Forecast
+description=Delivers a weather forecast overlay returning expected weather at your current location.
+author=OPENGIS.ch
+icon=icon.svg
+version=1.0
+homepage=https://www.opengis.ch/
